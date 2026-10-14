@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Amaad 👋
 
-<!--
-**AmaadAli464/AmaadAli464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SDET · QA automation · AI-assisted testing**
 
-Here are some ideas to get you started:
+I build test automation that thinks for itself while keeping humans in control: Java, Selenium, Cucumber, Rest Assured and Appium frameworks, and, lately, agentic QA workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured
+- **[ai-qa-orchestrator](https://github.com/AmaadAli464/ai-qa-orchestrator)**: a reference design for an AI-assisted QA workflow with guardrails, evidence-backed verdicts and replayable browser journeys
+
+## What I work with
+`Java` `Selenium` `Playwright` `Cucumber` `Rest Assured` `Appium` `Postman` `JMeter` `SQL` `Python` `Allure`
+
+## Currently exploring
+Agentic workflows · Model Context Protocol · making QA faster without making it riskier
